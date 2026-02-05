@@ -1,0 +1,14 @@
+
+MyEnv/
+venv/
+env/
+
+__pycache__/
+*.pyc
+
+*.pkl
+*.csv
+*.log
+
+.vscode/
+.idea/
